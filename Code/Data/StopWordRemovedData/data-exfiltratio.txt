@@ -1,0 +1,14 @@
+ If talk terms general life, Exfiltrate means surreptitiously move personnel material area enemy control. In terms Computer science, Data Exfiltration unauthorized removal data a network e.g. leakage Archives, Passwords, Additional Malware Utilities, Personally identifiable information, financial data, trade secrets, source code, intellectual property, etc. For a hacker, easy move things a box. E.g. RAR file, ZIP file, CAB file, etc. Data Exfiltration outbound FTP, HTTPS common days.
+ COVERT CHANNEL
+ Source: https://urlzs.com/L7bf
+ The main characteristic a covert channel aimed hiding fact communication taking place. This differs cryptography, intention camouflage transmission data, rather goal make data readable/useable solely receiver. The oldest form a covert channel steganography, intention avoid drawing suspicion transmission a hidden message.
+ Source: https://urlzs.com/GiJX
+ Covert channels evolved tattooing messages a slaves scalp embedding information features TCP/IP protocol. Although a formal definition covertness field computer science exist, research detection covert communication active. Informally, say operation covert difficult detect without use special tools specifically look it.
+ For example, let us suppose want detect a user printing documents a particular printer network (for convenience, refer a user simply John). Suppose set network tools keep records communication John’s workstation printer. The detect John prints something walks printer pick page. Alternatively, detect every time try print something, discover printer frequently busy John waiting print jobs complete. If John wants keep operation hidden print a lower rate, say page per day. Nobody would detect it. If instead keeps printing day long, highest possible rate, operation becomes easily recognizable. Even printing half maximum rate makes process quite noticeable.
+ If abstract concept, obtain following: Covertness a characteristic operation measured rate usage media. If apparatus exploited maximum capacity, operation easily visible a covertness zero; instead exploited a lesser rate, operation increasingly covert. In words, a measure covertness function distance capacity a given medium. Therefore, keep activity covert possible, rate usage, compared capacity equipment, kept low possible.
+ The closer capacity rate operation transmission executed, covert transmission be. Covertness thus proportional difference capacity actual rate used:
+ Covertness = (Capacity medium – Transmission Rate)
+ Define kinds threats:
+ unauthorized disclosure information
+ unauthorized modification information
+ unauthorized withholding information (usually called denial service)

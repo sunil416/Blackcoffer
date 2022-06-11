@@ -1,0 +1,38 @@
+ CURRENT SCENARIO:
+ In past 2 years, Indian banks seen rapid growth stressed assets NPAs climbing 3% 13% total assets. In 2017-18 GNPA ratio rose 23.1 % 18.1% last year. The primary culprits Public Sector Banks given renewed loans unworthy corporates like Nirav Modi, Kingfisher Airlines. Another big blow banking sector came September 2018 form IL & FS crisis. Infrastructure Leasing Financial Services, a publicly owned NBFC defaulted loans worth Rs. 91000 Crore led a liquidity crisis across Indian NBFCs impact Indian banks well. Due developments, trust Indian financial sector seems lost RBI taking a set measures revive financial sector.
+ STRATEGIES CONTROL NPAs
+ Preventive Management: Preventive Management save asset becoming NPA. This involves maintaining due diligence proper credit assessment granting loans.
+ Curative Management: The curative measures designed speed recoveries money locked NPAs released quickly.
+ CURATIVE STRATEGY:
+ To control situation, India definitely go curative strategy first. Insolvency Bankruptcy code (IBC) passed 2016. It proved a major shot arm banks fight NPAs. Since also amended several times give strength. The RBI also dissolved existing Corporate Debt Restructuring (CDR) comprehensive frameworks like SDR (Strategic Debt Restructuring), S4A 5/25. The measures facilitate conversion outstanding loans a majority shareholding company. Also, allow even a single day default, bank send case IBC (Adhikari, 2018). In March 2018, RBI implemented ban lenders issuing LOCs LOUs issuing overseas loans.
+ CHALLENGES BANKING REFORMS:
+ Though due diligence good preventing NPAs, limited effect only. Transition SDR though a good move seen much success case shown results, case Gammon India. IBC met success challenges like lack infrastructure. So far 11 NCLT benches set across India. (Upadhyay, 2019) .The move ban buyer’s credit impact trade financing India. Importers used instrument avail cheaper credit pay suppliers. Post ban, rely upon Bank guarantees comes limits. Also, ban LCs mean corporates taken LCs pay back rollover. (Archana & Gopakumar, 2018).
+ PREVENTIVE STRATEGY:
+ After addressing challenges curative strategy, important implement a preventive strategy banks prevent loan write-offs future. An important aspect related BASEL norms. BASEL a city Switzerland location headquarters Bank International Settlements (BIS) international body sets rules banking.
+ Currently, Indian banks transitioning BASEL-III norms. BASEL-III norms implemented April 1, 2013, fully implemented March 31, 2020. One key shortcomings earlier BASEL accords approached solvency institution independently.
+ BASEL-III set objectives improve shock absorbing capacity every individual bank priority worst case, banks fail, ensures banking system a whole crumble a spill-over effect.
+ KEY ASPECTS BASEL-III NORMS
+ BASEL-III norms identified SIFIs (Systematic Important Financial Institutions) set a higher requirement absorbency ratio banks greater risk financial system. A Tier-I extra capital ranging 1-2.5% banks. (Shakdwipee & Mehta, 2017)
+ The Basel III capital regulations continue based mutually reinforcing Pillars, viz. minimum capital requirements, supervisory review capital adequacy, market discipline Basel II capital adequacy framework. The overall capital adequacy ratio proposed RBI 11.50 % against 9.00% present. Moreover, additional leverage ratio introduced 4.50 %. (RBI, 2015)
+ Two minimum standards viz. Liquidity Coverage Ratio (LCR) Net Stable Funding Ratio (NSFR) funding liquidity prescribed Basel Committee (RBI, 2012).
+ These aspects illustrated figure given below:
+ Source: (Shakdwipee & Mehta, 2017)
+ MACROECONOMIC EFFECT BASEL-III NORMS
+ The increase capital requirements increase weighted cost capital banks increase lending rates.
+ Bringing common equity capital ratio a level would meet agreed common capital requirement capital conservation buffer would bring GDP.
+ RESULT BASEL-III NORMS
+ Clearly, immediate effect negative visible year 2016 PSBs posted significant losses. Fitch Ratings stated progressive increase minimum capital requirements Basel III likely put nearly half Indian banks danger breaching capital triggers.
+ Fitch estimates Indian banks require around USD90bn capital FYE19 meet Basel III standards, state banks accounting 80% total. (Hindu Business Line, 2018).
+ Due this, Government extend deadline implement BASEL-III norms Indian banks a year. (Hindu Business Line, 2018).
+ After studying this, thing clear implementing BASEL-III norms even next year won’t a cakewalk. The banks need overhaul risk management practices order bring regulatory change.
+ EXPANDING ROLE RISK MANAGEMENT: BASEL-III
+ While hand, BASEL-III increases cost form technological investment also presents opportunity presents opportunity banks assess operations look opportunities create efficiency. In long run, influence banks move a culture risk evidence-based decision making. (Cognizant, 2013).
+ Technology take a central role risk management bring operational efficiency. The organization needs break silos work a single unit discover insights needs improve. Some examples be:
+ Considering liquidity management a key aspect processes deciding product portfolio help banks enhance offerings.
+ Merging similar type risk management systems, example, consolidating anti-fraud anti-money laundering system, banks able apply advanced analytics help increase operational efficiency.
+ Integrating products data credit card deposits, banks find ways market products target customers.
+ ROAD AHEAD: INSIGHTS
+ Implementing BASEL-III cakewalk bank needs take a deep analysis processes. They invest prudent technological investments bring operational efficiency processes. Use fintech option.
+ Other that, bigger industry players find ways collaborate third-party experts, like cloud service providers provide small emergent players consultancy risk management.
+ Banks try divest capital intensive businesses try merge synergistic businesses merger Indiabulls Housing Finance Laxmi Vilas Bank shows.
+ Blackcoffer Insights 9.0, Sanchit Aggarwal & Saumya Agarwal, Fore School Management, New Delhi

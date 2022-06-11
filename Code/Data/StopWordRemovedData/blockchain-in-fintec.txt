@@ -1,0 +1,23 @@
+ Disruption Fintech – The Lightning Network
+ Blockchain Distributed Ledger Technology already around time now. Cryptocurrencies like Bitcoin, based Blockchain technology, making entry formal finance world increasingly becoming a medium exchange. Though potential use cases Cryptocurrencies Indian Government critical implementing technology banking finance, a lot issues resolved commercially use transactions.
+ Some important drawbacks Cryptocurrencies like Bitcoin right below:
+ Scalability:
+ Bitcoin <7 transactions per compared ~47,000 payment network giants like Visa
+ There a block limit 1MB, amounts 8GBs per 10 min a Bitcoin block (to match 47,000 transactions per second). This essentially means home computers cannot process currently limited use cases transactions requiring devices high computational power
+ Centralization:
+ High computation power requirement would limit usage network afford it
+ This eventually lead fewer validations Distributed Ledger, defeating whole purpose using Blockchain. (A distributed ledger means everyone network validate transaction parties)
+ So, becomes important a cheaply available validation mechanism carried using a basic broadband connection in-home/small business computers. If people personal transaction history, it’s unimportant posted main blockchain every time a transaction takes place could bloat blockchain. Moreover, everyday transactions using cryptocurrency possible cost posting a transaction for. Let’s say buying a coffee, price coffee itself.
+ Introducing The Lightning Network:
+ Lightning Network latest disruptive technology researched currently Fintech make cryptocurrencies scalable. It basically adds extra layer top main Bitcoin Blockchain enables payment channels parties layer. Micropayments everyday transactions easily carried using channel. Here works:
+ Suppose A buys a coffee nearby coffee shop B daily work. A B decide open a channel Blockchain everyday transactions. Once channel (or Lightning Network) open, parties keep a track daily transactions ledger. At end month, ledger reflecting balances left party, decide close channel. This final transaction recorded main Bitcoin Blockchain. This reduces cost transaction enables micropayments everyday transactions.  Micropayment channels defer updating main blockchain remaining balances a later date. A large network micropayments created a secondary layer top main blockchain address scalability issue reduce transaction fees. Although solution much initial stages, resolving scalability issue reducing transaction fees taking transaction main blockchain give a big boost use Cryptocurrencies.
+ How payments take place lightning network?
+ The parties exchange a single key validation spend transactions. They conduct unlimited number transactions channel finally party closes channel, balances added blockchain.
+ Each user open a digital wallet store Bitcoins deposit coins channel opened (this money kind a security deposit behalf parties honor transaction)
+ Once need exchange money books updated, sign ledger channel
+ Finally, added blockchain channel closed
+ The network globally scalable since reach person connected channels network, need know path connect person leveraging existing network. Once network develops future, requirement open a separate channel would cease exist since algorithm automatically find shortest route connect person want pay based exhaustive peer peer network. This would ease inter-country transactions money sent across internationally within seconds.
+ Limitations technology –
+ Since channel Lightning Network separate connected main Blockchain, backed security original Blockchain. This a major concern widespread adoption companies research extensively this. Another challenge dependency internet. The Lightning Network capable storing coins digitally a hardware wallet. This makes prone hackers since wallet available online. Also, transferring large amounts money something needs detailed research, since bigger payment might struggle routing network.
+ Nevertheless, technology really fascinating a broad usage implementation Bitcoins Distributed Ledger everyday life. Once rolled customer experience, micropayments possible parties Blockchain, currently wallets transfer money small purchases. The Lightning Network a long go surely going become next big disruption Fintech domain Blockchain.
+ Blackcoffer Insights 11 | Chirag Soni - IIM BANGALORE

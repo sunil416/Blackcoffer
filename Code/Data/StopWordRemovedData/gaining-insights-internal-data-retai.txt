@@ -1,0 +1,21 @@
+ Big Data emerged biggest business technological buzzwords recent years. The term Big Data applies information cannot processed analyzed using traditional tools processes. A number companies leading development Big Data analytics programs creating unique packages retailers, suggests going a big impact retail industry.
+ Using big data identify promotion items actually grow category sales store profits top opportunities identified retail professionals. Innovations Big Data retail often bog vastness potential, leaving retailers vaguest guidance try figure invest powerful tool. 
+ Most early big data efforts targeted sourcing analyzing internal data, also true retailers. In retail industries, internal data primary source big data retail organizations. Retailers take a pragmatic approach adopt big data also tremendous untapped value locked away internal systems.
+ Value making big data sources retailers are:
+ Transactions
+ Log data
+ Events
+ E-mails
+ Social Media
+ Sensors
+ External Feeds
+ RFID scans POS data
+ Free-from text
+ Geospatial
+ Audio
+ Still images / video
+ It advised retailers active big data efforts analyze transactions data well log data. Transaction log data machine-generated data produced record details every operational transaction automated function performed within retailers’ business information systems – data outgrown ability stored analyzed traditional systems. As a result, cases, data collected years, analyzed.
+ Retailers also make use RFID scans point sale (POS) data. This a natural area retailers lead given history dependence POS data transactions. Unlike industries, retailers severely lagged analyzing free-form text data, retailers reporting use compared industries. This represent opportunity retailers become early adopters area analysis. Early adopters big data turning information insights deliver value organizations.
+ For example, a global footwear retailer leverages transactional insight generate opportunities business growth. Previously, company order, sales, inventory, financial data dispersed across company, making difficult managers quickly access data needed make critical business decisions. Managers couldn’t identify products greatest demand, resulting warehouses overstocked less popular items hot items back order.
+ To enable timely effective operations decisions, retailer create a seamless reporting framework provides granular, real-time information sales floor suppliers’ inventory production schedules, allows targeting customers better inventory forecasting. In addition, transactional information retailer’s core platforms standardized integrated a single reporting framework improve visibility business activity, enabling deeper insight customer needs.
+ With capabilities, managers quickly respond marketplace demands address business challenges. Having real-time granular visibility store-level sell-through inventory data enables optimized replenishment merchandising practices, supply chain transparency promotes lower-cost logistics. The solution positioned company competitive advantage helping boost sales lower operational costs.

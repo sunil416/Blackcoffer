@@ -1,0 +1,41 @@
+ Brief
+ The Financial Crisis 2008 started a crisis subprime mortgage market (i.e. a market lending loans done people difficulty maintaining repayment schedule simple terms, loans given people without proper checks low credit scores) ultimately led onto a huge global collapse.
+ The Financial Crisis 2008 Great Recession considered worst economic crisis since Great Depression.
+ Financial Crisis Explained –
+ In year 1996, a dot-com boom (or otherwise known dot com bubble) United States, a period massive growth use internet stock market prices started increasing rapidly. However, around year 2000, dropped led people investors withdraw investments stock market rapidly. It led decline price shares stock markets interest rate plummeted around 1% quickly a short span.
+ Investors looking a brighter option investing stock markets.
+ Fig – Rise fall Dot Com Bubble
+ As interest rates went lower lower, real estate prices started rising US Govt also encouraged people buy houses properties. The demand started rising rapidly investors found a great option invest (i.e. Real Estate).
+ During time, Investment Banks saw opportunity, chimed started buying loans Banks bulk clubbed multiple loans a complex derivative called CDO (Collateralized Debt Obligations) started providing Investors getting a credit rating “AAA” (Very Safe Investment) Credit Rating Agencies. Investors naturally fell started buying CDOs.
+ So now, risk factor loans got transferred Banks Investment Banks CDO Investors.
+ With high buying demand CDOs, Investment banks started demanding pressurizing Banks provide even Loans provide CDOs Investors. However, Banks already provided loans people good credit history regular income people. But hope getting even credit Investment Banks, banks started giving subprime housing loans people low credit scores.
+ Approximately $174Bn worth loans given period 2000-2007 clubbed CDOs a “AAA” rating Credit Rating Agencies. Approximately 70% CDO’s marked a “AAA” rating.
+ Investment Banks Credit Rating Agencies enjoying large profits time. Moody’s (a credit rating agency) profits increased 4x times period (2000-2007).
+ Looking huge profits made Investment Banks Credit Rating Agencies, Insurance companies (like AIG) started giving insurance CDOs investors called CDS (Credit Default Swap). AIG believed since CDOs rated “AAA” (Very Safe Investment), failure chances CDOs minimal. They misjudged unaware fact loans clubbed CDOs Sub Prime loans.
+ Now CDO Investors started buying CDS AIG companies safeguard protect losses. AIG started making huge profits premiums investors pay. But never realized outcome chance CDOs fail point time. Thus, risk factor got transferred CDO investors Insurance Companies.
+ Fig – Flow Diagram showing Risk Factors got transferred
+ Coming loan borrowers now, Sub Prime Borrowers banks unaware fact Adjustable Rate Loans (interest rate loans keeps changing) thus pay lower interests start interest rates later on.
+ The borrowers started defaulting loans interest rates increased dramatically around 2007 thus banks resell houses make loans defaulted.  Added problem fact borrowers spending amount money pockets taking loans banks providing full amount loans. Almost 50% borrowers pay anything pocket bought home using housing loan.
+ This led a huge increase defaulters borrowers ultimately banks auction houses gain credit back. With high-interest rates buy auctioned houses, ultimately caused a chain reaction banks longer receiving credit. The prices Real Estate started falling drastically people good credit scores earlier taken housing loans also started defaulting price houses/homes fell loan amount taken earlier. Banks stopped receiving money also chain reaction, value CDOs ultimately came 0.
+ Some Investors went huge losses Investment companies went bankrupt (ex – Lehman Brothers). Moreover, insurance companies pay back investors taken insurance. As a result, insurance companies also went bankrupt. AIG almost lost $100Bn paying back investors earlier insured CDOs. However, US Govt. finally decided bail AIG order save going bankrupt.
+ CDOs CDSs regulated time Federal Reserve thus whole situation ultimately led credit crunch (became difficult get loans) whole economy US underwent a crisis led a global impact around world. Unemployment increased manifold businesses shut down. Global trades around world also saw a crisis finally, Global Recession hit World.
+ Causes Crisis –
+ Improper screening loan borrowers resulting subprime loan borrowers included even borrowers stable income.
+ Credit rating agencies rated CDOs highly investors purchasing without proper monitoring. goes Insurance companies.
+ Lax regulation CDOs CDS’ federal reserve banks.
+ The large size interbank lending compounded crisis
+  Effects Crisis –
+ House prices plummeted.
+ The unemployment rate increased US EU.
+ 8M people lost jobs globally
+ 2.5M business devastated
+ 4M houses foreclosed.
+ Approx. $450Bn losses (Banks Investment Banks combined)
+ Ways Avoid Such Crisis Future –
+ Tighter regulations loan screenings.
+ Regulations prevent banks growing big preventing systemic risks (addressing ‘Too Big Fail’ problem)
+ Borrowers must made aware rate adjustable loans
+ Credit rating agencies rate CDOs without proper risk assessment.
+ Partnership Fintech companies develop robust alternative credit scoring models people less credit history.
+ Strict regulation CDOs CDS’ Federal Banks
+ Blackcoffer Insights 19: Neermalya Pratim Das, SCMHRD-Pune

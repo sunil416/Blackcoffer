@@ -1,0 +1,30 @@
+ The global healthcare industry expected grow a CAGR 24.7%. This made possible leveraging various analytics tools practices healthcare providers improving operational efficiency.
+ The United States front growth, accounting 65.84% attributed country’s substantial investment healthcare.  Europe Asia a path steady growth increased expenditure technology, R&D emergence Big Data.
+ The volume data available expected increasing exponential rate years ahead. Current cumbersome techniques evaluation pave advanced analytics. These techniques, ability process, act on, manage distribute data a variety sources, become backbone healthcare sector. With evaluation, vast health data better understood effective, real-time, specific decisions taken.
+ Source: http://www.techferry.com
+ Current Situation
+ Before discussing future, important reflect upon current scenario. After introduction Electronic Health Records (EHR), amount data collected gone significantly, creating metadata used querying. Healthcare organizations resorted analytical tools improve efficiency patient examination. With a wide range information patient’s history, genetics demographics, customized quality care could provided. More venture capitalists started investing healthcare analytics.
+ However, healthcare organizations a long making effective use information. A proper understanding vast applications a resource scarce. Differentiating quality data noise becoming difficult. The high cost analytic solutions lack skilled professionals a pain point organizations.
+ Leveraging big data analytics healthcare
+ Patient profile analytics: Analytics applied existing patient profiles identify need preventive care. Patients risk developing a disease like diabetes helped lifestyle changes preventive care.
+ Public health: By analyzing a large amount data available, disease patterns identified outbreaks predicted finding various correlations data points.
+ Resource management: With development location tracking technologies like RFIDs, patients, staffs, instruments resources enterprise effectively tracked managed a real-time basis.
+ Fraud analysis: Hospitals a daily basis receives a large number insurance claims. With help big data analytics, valid claims segregated reducing wastage time resources.
+ Genomic Analytics: Genes individual high-powered computing combined produce personalized treatments patient. Genetic disorders identified target therapies developed.
+ Real-Time health care: Various mobile applications developed help individual manage care a personalized manner. Wearables developed effectively track safety monitor conditions real-time analyzing large volumes fast-moving data.
+ R & D: Predictive modeling statistical methods used improve clinical trials finding follow-on indications. Trial failures reduced product development given push demands.
+ Concerns mitigation strategies
+ Data Integrity:
+ The data situations come places questionable data governance standards. Obtaining data meets standards required accurate use major ongoing battles organizations. Lack understanding usage EHR (Electronic Healthcare Records) importance capturing quality data adds lack data quality.
+ Future:  Improvements data capture prioritizing valuable data types educating clinicians ensure data useful downstream analytics ways forward.
+ Filtering:
+ Presence inaccurate unwanted data (noise) derail effectiveness analytics system. The data, comes disparate data sources multiple formats, unless acted upon properly lead inconsistency. Though Data cleaning, process ensuring datasets consistent, accurate relevant, done, organizations use inefficient manual methods.
+ Future: vendors coming applications use machine learning use rules filter segregate data, make process effective affordable
+ Storage:
+ With latest developments technology, amount data generated captured increasing alarming rate. Even though enterprises currently prefer on-premise data storage advantage better control security access, become difficult modify, scale adapt situations.
+ Future: Many organizations slowly shifting cloud storage various hybrid approaches store data. This provides a highly scalable, cost-effective solution provides ease access.
+ Security:
+ With recent episodes high profile hackings, security breaches, ransomware, etc security become a huge concern technological era. From a small action like leaving laptop unsecured highly sophisticated hacking, data safe spite initiatives taken.
+ Future: Employees educated transmission security, authentication protocols, controls access, integrity, auditing. Procedures using latest anti-virus software, setting firewalls, encrypting sensitive data, using multi-factor authentication ways prevent security attacks.
+ As move forward 2018, organizations analyze much complex high-volume data. With development customized, highly efficient data analytics practices, organizations make sense data use providing efficient personalized care. Data integrity bound become important factor effectiveness data analysis methods dependent incorporation error-free, relevant data quality sources.
+ Blackcoffer Analytica III, Arun.R, T A Pai Management Institute, Manipal

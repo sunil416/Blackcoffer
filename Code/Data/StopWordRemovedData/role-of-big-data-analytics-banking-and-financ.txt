@@ -1,0 +1,19 @@
+ The Great Recession 2008 prominent reason Big Data started gaining popularity. Banking, backbone every country, plays a vital role development financial system economy. Banking helps boost financial system economy. Since last decades, size data grown a huge amount value. Storage information digital form already taken place India. Due digitalization, a large amount data become feasible utilize. Investments Big Data analytics banking sector around $20 billion 2016, per IDC semi-annual big data analytics spending guide 2016. The Vs big data (velocity, volume, variety, veracity) impacted banking sector various points time.
+ DATA VOLUME: The size available data growing increasing rate. This applies companies individuals.
+ DATA VELOCITY: Velocity measure fast data coming in.
+ DATA VARIETY: It stands plenitude data types processed, banks deal huge numbers various types data.
+ DATA VERACITY: Uncertainty due data inconsistency incompleteness.
+ Big data applications various branches banking finance sectors Marketing, Risk management, operations, etc.
+ RISK MANAGEMENT
+ Since gives advantage competitors, a source profit financial institutions. Big data analytics companies evaluate risk various customers banks financial institutions. Data analytics helps remove biases taken management decisions. Risk analytics plays important role Fraud analytics, Credit policy, Modelling.
+ The spending patterns previous credit history a customer help rapidly assess risks issuing a loan.
+ In March 2014, 5,090 wilful defaulters defaulted Rs 39,504 crore. This grew steadily years number 11,046 wilful defaulters Rs 161,213 crore December 2018, per CIBIL list.
+ Financial Institutions a sufficient amount data order realize mitigate future risk posing customers. There Data Science Startups tied different financial institutions asses risk customers. Currently, approximately 60,000 data science financial analytics professionals India, working finance sector.
+ Rubix Data Sciences Pvt Ltd company a Startup asses credit risk clients. These companies expertise managing monitoring customers clients a real time basis data analytics.
+ CUSTOMER SEGMENTATION PROFILING
+ In studies, McKinsey Global Institute (MGI) pointed 2014 report ‘Global flows a digital age’, apart goods services, digital flows across countries contribute economic development. One biggest factors social media, opened avenues opportunities organizations connect customers. However, huge volume brands, products, services, discussed, shared, criticized liked different social platforms overwhelming. Sentiment analytics helps rapidly read data provide a summary people like like a company products. It helps company make better decisions products.
+ Through analytics customer segmentation profiling basis customer spending patterns, instance, a person a heavy loan payer exhaust income once, help banks financial institutions plan bottom line maximize income. With help big data analytics, banks analyze market trends decide lowering increasing interest rates different individuals across various regions.
+ POLICY FORMATION REGULATORY NORMS
+ Data analytics tools used RBI monitor inflation a real-time basis. The financial system completely computerized, large volumes data generated a daily basis. A dynamic database bank lending activity could help a regulator spot outlier activity lead trouble later. This assumes data across banking sector aggregated. Trends retail lending also spotted plugging databases consumer credit rating agencies. Big data analytics help analyze ongoing activity financial system mitigate upcoming risk.
+ In spite tightening regulations, financial frauds companies. As mentioned previously list defaulters last years increased drastically. Tracking spending patterns individual help develop stringent regulations high spending individuals vice-versa.
+ Blackcoffer Insights 9.0, Abhikrant Aher (SIMSREE, Mumbai) & Naleen Karelia (JBIMS, Mumbai)

@@ -1,0 +1,41 @@
+ We hear day day amidst a technological revolution. But know really means?
+ Before understand going impact us, let us discuss terms really mean.
+ A technological revolution simply means a period better newer technologies replace others get job done faster better. We era rapid innovations machines compared humans.
+ Fig: Technological Revolution
+ So, Machine Learning?
+ Machine Learning basically application artificial intelligence electronic systems enable learn enhance without programmed humans. It evolution development computer programs access data use advance themselves. Whether know not, use machine learning-powered applications daily.
+ Now, Artificial intelligence?
+ At simplest form, artificial intelligence a field, combines computer science robust datasets, enable problem-solving. 
+ In simple words, Artificial Intelligence technology facilitates machines perform human like behaviour.
+ Just like every industry, machine learning playing role finance banking industry too. In cases a human would perform task performing calculations following process taught machine perform itself.
+ Let us discuss a examples applications might come day day running a result machine learning industry:
+ Portfolio Management
+ Risk Underwriting
+ Algorithmic Trading
+ Fraud Detection
+ Process Automation
+ Customer onboarding
+ Customer churn
+ Decision Making
+ Process Automation
+ Portfolio Management
+ In earlier days, investor would need consult a financial advisor understand his/her risk appetite advise accordingly. Today, using machine learning algorithms exists concept a “Robo-Advisor” requires user give certain inputs financial status goals calculates risk tolerance constructs idle portfolio allocation them. Young users today find extremely useful rather physically visiting advisor paying a fee so.
+ Risk Underwriting
+ Underwriting core functions financial institutions especially banks insurance companies required underwrite risk customers loaning money insurance policies. These underwriting activities based trends thumb rules industrywide. The introduced machine learning able underwrite risks today a larger accurate scale.
+ Algorithmic Trading
+ Machine learning a mathematical model tracks market information, analyses massive data sources study market conditions simultaneously detect patterns used trading. This humanly impossible a fraction time. Algorithmic systems make millions trades daily, often known “high-frequency trading”. It highly believed deep learning playing role calibrating real-time trading decisions.
+ Fraud Detection
+ With increase use dependency computers financial transactions came data security risk. There ample amount valuable data stored online available create potential risk. Machine learning thus helped fraud detection detecting anomalies transactions flagging scrutiny based risk factors defined institutions. Fraud identification insurance claims, credit card payments, identity theft, account theft, areas fraud detection machine learning help in.
+ Process Automation
+ Process automation common applications machine learning finance. The technology helped replacing manual work, automate repetitive tasks avoid redundancy, a result, increase productivity. Machine learning benefitted organizations optimize costs, improve customer experiences, scale services. Some examples financial banking firms using process automation use chatbots, automated calls, paperwork automation, gamified employee training.
+ Customer onboarding
+ In highly competitive industry, customer acquisition customer onboarding process highly relevant building a good customer relationship. At stage, onboarding, a slight inconvenience delay act a barrier. Machine learning-enabled complete automation process financial banking institutions. Today, opening account, filing application completed within a minutes utmost ease. With AI, customers’ behavioral patterns studied improvise make whole process efficient user-friendly.
+ Customer churn
+ With multitude offerings availability a plethora options, customer stickiness a big problem faced financial firms. Customer churn forecasting big data use cases. It helps detecting customers cancel subscription analyses tailor products per customer needs. Video streaming application, Netflix’s subscribers worldwide continued grow reach 167 million using machine learning analytics customer database.
+ Decision Making
+ Financial banking institutions function facilitating investments made customers. Organizations constantly search customers get revenue. This possible performing machine learning analysis structured unstructured data helps make informed decisions. It also analyses data website mobile application construct effective marketing campaigns targeted customers.
+ Future Machine Learning Finance
+ Financial monitoring, security analysis, prevention money laundering, network security, investment predictions, personalization customer service everything comes realm applications machine learning financial banking industry. Yet, tip iceberg, a lot going change future. It visibly imperative AI beginning create a wave transformation across industries adapting changes s important one’s survival. With smart technology applied everywhere, financial firms bound turn FinTech’s stay relevant “silver tech generation” consisting millennials GenZs.
+ Final thoughts
+ The financial services industry entered space artificial intelligence machine learning, pace surprising knowing positive changes brought. Machine learning use cases finance industry available computer power machine learning tools. The greatest applications include simplifying customer engagement accurate sales forecasting. It making industry better efficient adaptation. Machine learning algorithms capability deal a lot human capacity along eliminating human error. As even algorithms constantly learning innovating, serve a bridge a completely flawless automated financial system future. Nonetheless, challenges high cost lack resources come along play a significant role early firms adopt technologies. But even then, future seems bright industry enough adopters prospects ready explore.
+ Blackcoffer Insights 28: Tanisha Gupta, XLRI

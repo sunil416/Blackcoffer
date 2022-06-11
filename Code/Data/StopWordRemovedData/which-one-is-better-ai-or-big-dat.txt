@@ -1,0 +1,21 @@
+ The big data industry grown incredible rate businesses realize importance insightful data analysis. We compare big data corresponds artificial intelligence, similarities differences them, whether better combination leads results beyond traditional human capability.
+ Artificial Intelligence
+ Artificial Intelligence defined ability a machine apply logic reason analyze, interpret inputs, and, ultimately, make decisions. It recreation human intelligence machines.
+ There numerous, real-world applications AI systems today. A online chatbots, Recommendation engines, Speech Recognition, Computer vision, etc. We AI, assistants, phones like Google Assistant, Apple’s Siri, Samsung’s Bixby, Amazon’s Alexa, applications using speech recognition systems. Online retailers using recommendation engines suggest relevant recommendations customers checkout process. computer vision applications within photo tagging social media, radiology imaging healthcare, self-driving cars within automotive industry.
+ Big Data
+ Big data comes play volume data large traditional data management practices effective. Big Data a field focused managing a large volume data a variety sources. 
+ The essence big data broken “the v’s big data”:
+ Volume: The amount data collected
+ Velocity: The rate data received acted upon
+ Variety: The different forms data collected, (structured, Semi-Structured, unstructured data sources).
+ Similarity
+ AI Big Data data-driven technologies.
+ Differences
+ The difference artificial intelligence big data lies output each. Artificial intelligence analyses inputs learn improve sorting patterning processes time, using data gathers provide a accurate solution. In contrast, big data information accumulated various data sources, analyzed artificial intelligence. Big data artificial intelligence often used conjunction another, fulfills different roles, information application information.
+ The collection storage large volume data i.e., Big Data used Machine learning models. Based Machine learning models Artificial Intelligence makes decisions.
+ Comparison
+ AI uses data ability analyze, learn data, make decisions, solve complex problems depends upon quality information fed system. Big Data provides vast information train AI. By harnessing big data resources, artificial intelligence systems make informed decisions, provide better user recommendations. Most big companies like Google, YouTube, Amazon, Netflix, Spotify, others constantly collect analyze user interaction data platforms maintaining user data security rules. Then based user data run data models predict user demand, taste, behavioral patterns. As a result which, platforms able provide optimized recommendations watch listen next. Google’s feature phone, Google Pixel, camera uses AI improve quality pictures. This AI good trained data Google got a trove images Internet.
+ Conclusions
+ Big data makes possible Artificial Intelligent (AI) reach fullest potential. There artificial intelligence without big data.
+ However, Big data artificial intelligence interdependent meaning cannot exist without another. If taken picture, another cannot exist. Big Data AI technologies posterity compete complement other.
+ Blackcoffer Insights 31: Indrani Chakraborty, Developer TCS 

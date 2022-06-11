@@ -1,0 +1,47 @@
+ INTRODUCTION
+ Dashboards often created on-the-fly data added simply white space used. Different people company ask different data displayed dashboard becomes hard read full meaningless non-related information. When happens, dashboard longer useful.
+ TRYING IMPRESS?
+ ‘Does CFO really need know servers operating 95% capacity?’
+ Think audience dashboard. The effective dashboards target a single type user display data specific ‘use case’. Is dashboard going used executive team monitor company’s financials used marketing team monitor daily activities? It’s important ensure possible dashboard consists data specific a single audience. Often step overlooked dashboards include a mix data: Some relevant audience another.
+ SELECT RIGHT TYPE DASHBOARD
+ There 3 common types dashboard, performing a specific purpose:
+ Operational
+ Strategic / Executive
+ Analytical
+ 1. Operational Dashboards
+ These dashboards display data facilitate operational side a business. For example, a business a website, it’s important ensure website remains running, would monitor server uptime utilization. In a business inside sales function, want create a dedicated sales dashboard displays a number calls made a number appointments booked.
+ Think operational dashboard monitoring nerve center operation. Operational dashboards often require real-time near real-time data
+ 2. Strategic / Executive Dashboards
+ Strategic dashboards typically provide KPIs (Key Performance Indicators) a company’s executive team track a periodic (daily, weekly, monthly basis). A strategic dashboard provide executive team a high-level overview state business together opportunities business faces.
+ This data could be:
+ Periodic revenue (vs prior period)
+ Costs (vs prior period)
+ Headcount (by department)
+ Sales pipeline
+ 3. Analytical Dashboards
+ An analytical dashboard could display operational strategic data. However, type dashboard offer drill-down functionality – allowing user explore data get different insights. Often dashboards include functionality required. Do simply provide functionality can.
+ Bear mind different user groups require a different type dashboard. The marketing manager need a Strategic Operational view data. Where possible create separate dashboards.
+ GROUP DATA LOGICALLY – USE SPACE WISELY
+ A well-designed dashboard ensure data displayed logical groups. For example, a dashboard includes Financial KPIs Sales Pipeline, ensure financial data displayed next other, Sales Pipeline data displayed together a separate logical group. Grouping often department functional area include:
+ Product (Inventory, development)
+ Sales/Marketing
+ Finance (Actuals forecasts)
+ People
+ Often important real-estate a dashboard (top left-hand corner) reserved a company logo a navigation tool. This good dashboard practice part screen important part dashboard (this western languages read top bottom left right – hence eye start it’s journey discovering something top left-hand corner.
+ MAKE DATA RELEVANT AUDIENCE
+ An Executive dashboard a number different audiences. Ensure data display relevant users. Think scope reach data:
+ The whole company
+ By Department
+ Individuals
+ Suppliers
+ Ensure understand exactly intended audience scope requirements. In a small organization, Executive dashboard likely include KPI data across departments. However, a larger company, department Executive dashboard.
+ Gaining agreement dashboard components non-related parties doomed fail.
+ DON’T CLUTTER DASHBOARD – PRESENT IMPORTANT METRICS ONLY
+ Dashboards often cluttered. Cluttered displays deflect focus important messages. Some cluttered useful relevant information cluttered useless irrelevant information. Neither situations desirable.
+ Each dashboard-type require different amounts data (for example Executive dashboard need 6 numbers, whereas Operational dashboard need upwards 20) There hard fast rule follow here, except ensuring everything display relevant meaningful audience. Do add a graph text simply can.
+ OFTEN DATA REALLY NEED REFRESHED?
+ Ensuring dashboard data refreshed right intervals saves time development (why go pain sourcing real-time data, need a weekly feed) ensure optimal performance dashboard live.
+ Examples refresh rates dashboards include:
+ Real-time (or near real-time)
+ Daily, weekly, monthly
+ As a rule thumb, operational dashboards require data real-time near real-time, whereas executive/strategic dashboards require data refreshed a less frequent basis.

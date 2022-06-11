@@ -1,0 +1,59 @@
+ The mentioned facts state importance Business Analytics market a Company’s perspective would a Consultant propose a client could done apart existing procedures operation firms market. This assignment deals specifically Textile industry related Apparel segment involved opted firm “Raymond Limited”, tells particular firm a market giant employed several meaningful necessary techniques, thereby resulted betterment firm result textile retail segment touching greater heights.
+ Business Analytics involves various techniques accuracy precise output based data generated firm, thereby allowing firm strengthen roots future endeavors.
+ INTRODUCTION
+ With change technology, automation, type material used, techniques used a different type clothes produced “TEXTILE INDUSTRY”, industry includes manufacturing materials like yarn, fabric, clothing undergoing rapid changes significant growth.
+ Raymond, a diversified group business reach Textile Apparel sector besides segments like FMCG, Engineering, Prophylactics world market, a brand delivering world quality products since past decades. Having established dominance Textiles, Raymond aggressive player ready wear apparel segment renowned brands basket.
+ The industry changing a fast pace includes Automation occurred sector changed production used occur like inventions the; Cotton grin, Stream Engine, Waterwheel Education Training, Globalization others formed present modern textile industry. There comes modern-day technique like Business Intelligence, a business analytical tool a provides a solution textile manufacturers, distributors, apparel retailers obtain required information latest trends, fashion patents, industry needs.
+ The textile industry machine-to-machine communication technologies production, quality, laboratory whether backend office applications. Real-time, 24/7 monitoring entire procedure managing production ensures optimum machine labor productivity thereby quality assurance checked.
+ Utilization Big Data Business Analytics systems contributes towards improvement industry a inclusion Predictive Analysis;
+ Demand production forecasting
+ Monitoring proactive management
+ Predictive maintenance
+ Supply chain optimization
+ Quality management
+ Claim complaint management
+ Additional Product development core business textile manufacturing company, also need innovation factor provide added value consumers gain extra edge market.
+ COMPANY’S PERSPECTIVE
+ Raymond’s strategy put customer heart business includes improving product, services, marketing decisions. There exist data-driven initiatives customer-centered data, includes profile, purchase, behaviors within business use Predictive Modelling core method used tackling business challenges market.
+ Determination value Consumer Lifetime Value (CLV)
+ Opportunity improve margin
+ To protect sales analyzing next products portfolio
+ Diagnostics help business take bold decisions
+ Assisting towards building data adoption decision making
+ # Distribution
+ To distribute product length breadth country. However, company determines able track consumption channels exists point sale. The culture sharing data different levels a channel helpful company distribution nodes. An extended view consumption consumers help create a seamless Raymond experience.
+ # Retail analytics
+ Improving performance well enhance customer experience helping stay ahead competition, retail analytics comes a helper company retail sector. And growing needs demands retail sector consumers, analytics dealing requires upgradations well, thus analytics involves:
+ The use location analytics
+ Improved data analytics IoT
+ Omni-channel data integration
+ Robotics in-store experience
+ Augmented virtual reality overdrive
+ Explanatory analytics replace predictive analytics
+ Analytics based dynamic pricing
+ Hence, help retail analytics technology involved offers unique insights retailers. Thereby leveraging sales retailers focus smart sales.
+ PROPOSAL INDIVIDUAL’S PERSPECTIVE (Consultant)
+ # Use Retail design
+ The company could visualize pillars growth store level:
+ Developing a retail identity
+ Innovating visual merchandise product display section
+ Training staff
+ Upgrading technology point-of-sales systems (POS) capture customer transactions
+ # Use Artificial Intelligence
+ This technology could a game changer already grabbing roots deep market retailers getting know technology better use becoming handy them.
+ To gain access accurate demographic data helps understand shoppers, thereby tailor choices
+ VeriHelp a company delivering advanced computing technology featuring AI, allows financial inclusion emerging economies retail acceleration
+ At India Omnichannel Forum 2017 – held September 19th 20th Mumbai, concurrently India Retail Forum – retail leaders met debate ‘Increasing Retail Revenue Using Artificial Intelligence’. Industry honchos roundtable, powered VeriHelp, talked penetration AI Indian retail scenario
+ # Use Predictive, Maintenance, Optimization
+ With help machine, learning analytics tends improve maintenance strategies thereby minimizing cost maintenance. In lieu IBM offers effective reliable solution companies allow flourish fulfill needs customers, making manufacturing retailing efficient.
+ On touching basic premises Business Analytics framework;
+ Source System: A company generates data Enterprise Systems, External Agency Data, Social Media Public Data.
+ Analytic Data Storage: Each every bit data required analysis, accurate judgment, generate precise results profitability firm. Thereby, Data Warehouses stores Hadoop System required. Converging Star schema patterns Aggregates data enables firm obtain results.
+ Real-time data integration
+ Analytical Reporting, Visualization, Optimization
+ For better results, mentioned point importance acts steps ladder proper Business Analytical channel.
+ Analytics could employed tackle problems could include:
+ Descriptive analytics: Analyzing basic statistics data visualization techniques peculiar things company state status utmost precision accuracy.
+ Data mining forecasting: Using data predict future information could useful company product line, storage, distribution, related operations.
+ Simulation risk management: With present competition need predict deals uncertainty associated optimum production, firm needs a simulated risk management system operation.
+ Blackcoffer Analytica Part III, Akash Gupta, RGIPT
